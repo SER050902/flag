@@ -1,5 +1,7 @@
 # Harry Kane
 
+![Harry Kane](harry-kane.jpg)
+
 Harry Kane es un futbolista profesional inglés, conocido por ser uno de los mejores delanteros del mundo. Nació el 28 de julio de 1993 en Walthamstow, Londres, Inglaterra. A lo largo de su carrera, ha sido reconocido por su capacidad goleadora, su trabajo en equipo y su liderazgo en el campo.
 
 ## Datos personales
